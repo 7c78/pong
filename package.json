@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "pong",
+    "scripts": {
+        "start": "webpack-dev-server"
+    },
+    "author": "7c78",
+    "devDependencies": {
+        "@babel/core": "^7.17.7",
+        "copy-webpack-plugin": "^10.2.4",
+        "fable-compiler": "^2.13.0",
+        "fable-loader": "^2.1.9",
+        "html-webpack-plugin": "^5.5.0",
+        "webpack": "^5.70.0",
+        "webpack-cli": "^4.9.2",
+        "webpack-dev-server": "^4.7.4"
+    }
+}
